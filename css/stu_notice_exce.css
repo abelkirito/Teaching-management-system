@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;color: #666666;}
+#top{width: 100%;height: 35px;background: #eee;line-height: 35px;padding-left: 25px;}
+#top i{width: 4px;height: 7px; background: url(../img/zy.png) no-repeat -25px center;display: inline-block;margin: 0 5px;}
+#top a:hover{color: orangered;}
+
+#content .tb_stu_not_exce{margin: 50px auto 0 auto;border: 1px solid #0066A8;border-collapse: collapse;text-align: center;}
+#content .tb_stu_not_exce td{border: 1px solid #0066A8;width: 200px;height: 30px;}
